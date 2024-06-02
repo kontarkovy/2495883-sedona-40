@@ -2,6 +2,7 @@
 
 * Студент: [Игорь Штенгелов](https://up.htmlacademy.ru/htmlcss/40/user/2495883).
 * Наставник: [Андрей Грачёв](https://htmlacademy.ru/profile/angra).
+* Сайт: [Мой проект Седона](https://kontarkovy.github.io/2495883-sedona-40/)
 
 ---
 
